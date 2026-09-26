@@ -1,0 +1,6 @@
+{
+  "name": "ساعة المؤذن الرقمية",
+  "description": "ساعة ومواقيت المسجد الذكية وشاشة العرض الرقمية للابتوب والتلفزيون وTV Box مع لوحة إعدادات شاملة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
